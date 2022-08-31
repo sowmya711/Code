@@ -1,1 +1,1 @@
-# Codechef-Solves
+# DSA/Coding Practise
